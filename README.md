@@ -1,6 +1,6 @@
-# Simple Bookstore CRUD App
+# Simple Bookstore App
 
-[https://github.com/alfonsusac/bookstore/blob/master/cover.png?raw=true]
+![Cover](https://github.com/alfonsusac/bookstore/blob/master/cover.png)
 
 Laravel Web Programming Lecture Project for Web Programming Course @BinusUniversity 
 
