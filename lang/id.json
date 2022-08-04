@@ -1,0 +1,52 @@
+{
+    "Log-in":"Masuk",
+    "Register":"Daftar",
+    "Find":"Cari",
+    "and":"dan",
+    "Rent":"Sewa",
+    "your E-Book":"E-bookmu",
+    "Here!":"Disini!",
+    "I already have an account, sign me in!":"Saya sudah memiliki akun, ayo masuk!",
+    "First Name":"Nama depan",
+    "Middle Name":"Nama tengah",
+    "Last Name":"Nama belakang",
+    "Password":"Kata sandi",
+    "E-mail":"Surel",
+    "Email Address":"Alamat email",
+    "Login":"Masuk",
+    "Don't have an account? Click here to sign up.":"Tidak punya akun? Klik di sini untuk mendaftar.",
+    "Role":"Peran",
+    "Male":"Pria",
+    "Female":"Perempuan",
+    "Member":"Anggota",
+    "Admin":"Admin",
+    "Profile Picture":"Foto Profil",
+    "Choose File":"Pilih File",
+    "No file chosen":"No file chosen",
+    "Submit":"Kirim",
+    "Already have an account? Click here to log in!":"Sudah memiliki akun? Klik di sini untuk masuk!",
+    "Home":"Beranda",
+    "Cart":"Keranjang",
+    "Profile":"Profil",
+    "Account Maintenance":"Pemeliharaan Akun",
+    "Log-out":"Keluar",
+    "Select a book for rent":"Pilih buku untuk disewa",
+    "Title":"Judul",
+    "Author":"Pengarang",
+    "Description":"Keterangan",
+    "Submit order or delete item from cart":"Kirim pesanan atau hapus item dari keranjang",
+    "Delete":"Hapus",
+    "Submit and Checkout":"Kirim dan Checkout",
+    "Success!":"Sukses!",
+    "Your cart has been successfully checked out and saved!":"Keranjang Anda telah berhasil diperiksa dan disimpan!",
+    "Click Here to go back home":"Klik Di Sini untuk kembali ke rumah",
+    "Edit your profile":"sunting profilmu",
+    "Saved!":"Tersimpan!",
+    "Your profile has been successfully saved!":"Profil Anda telah berhasil disimpan!"
+    ,"Manage Account":"Kelola Akun"
+    ,"Update Role":"Perbarui Peran"
+    ,"Change the role for":"Ubah peran untuk"
+    ,"by":"oleh"
+    ,"Your cart is empty":"Keranjang Anda kosong"
+    ,"Back to Shopping":"Kembali Belanja"
+}
