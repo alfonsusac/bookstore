@@ -16,6 +16,8 @@ A simple Laravel application for listing books and do transactions.
 
 [Notion Page](https://alfonsusardani.notion.site/Simple-Bookstore-Website-82f604a268d8457a9228052fce16ef01)
 
+[Complete Documentation](https://github.com/alfonsusac/bookstore/raw/master/Documentation.pdf)
+
 ## Setup Guide
 
 The project is intended to be run on windows machine as it is build in there.
